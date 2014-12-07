@@ -1,9 +1,8 @@
 {
-  "name": "app-name",
-  "version": "0.0.0",
-  "authors": [
-    "https://github.com/paptamas"
-  ],
+  "name": "Geeky",
+  "description": "",
+  "version": "0.1.0",
+  "private": true,
   "main": "./js/app.js",
   "license": "MIT",
   "ignore": [
